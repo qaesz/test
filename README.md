@@ -1,8 +1,8 @@
 # 接口列表：
 接口1={http://g.o.t.o.tutulai.cn/?url=}
 接口2={http://yun.mt2t.com/yun?url=}
-接口3={http://www.97panda.com/kkflv/index.php?url=}
-接口4={http://www.wmxzwang/video.php?url=}
+接口3={http://api.662820.com/xnflv/index.php?url=}
+接口4={http://www.1717yun.com/jx/ty.php?url=}
 接口5={http://api.xfsub.com/index.php?url=}
 
 # 公告：
