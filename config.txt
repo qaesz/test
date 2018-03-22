@@ -1,11 +1,11 @@
-<version>1.28</version>  ///×îĞÂ°æ±¾
+<version>1.28</version>  ///æœ€æ–°ç‰ˆæœ¬
 
-<explain>Ã»ÓĞ¸üĞÂ</explain>  ///¸üĞÂËµÃ÷
+<explain>æ²¡æœ‰æ›´æ–°</explain>  ///æ›´æ–°è¯´æ˜
 
-<update>http://16088c3b.nat123.cc/UVideo.apk</update>  ///ÏÂÔØµØÖ·£¬°Ñºó×ºÃûapkĞŞ¸Ä³Érar¼´¿É¡£
+<update>http://16088c3b.nat123.cc/UVideo.apk</update>  ///ä¸‹è½½åœ°å€ï¼ŒæŠŠåç¼€åapkä¿®æ”¹æˆrarå³å¯ã€‚
 
-<analysis>http://jx.119ym.com/jx/index.php?url=</analysis>  ///½âÎö½Ó¿Ú
+<analysis>https://player.timeschina.cc/mdparse/player.html?type=iqiyi&url=</analysis>  ///è§£ææ¥å£
 
-<text>¸øÄãÍÆ¼ö¸öÊÓÆµÈí¼ş£¬Ãâ·Ñ¿´ÊÓÆµ£¬»ù±¾ÉÏÄãÏë¿´µÄ¶¼ÓĞ£¬ÏÂÔØµØÖ·£ºhttp://fir.im/xsem</text>  ///·ÖÏíÄÚÈİ
+<text>ç»™ä½ æ¨èä¸ªè§†é¢‘è½¯ä»¶ï¼Œå…è´¹çœ‹è§†é¢‘ï¼ŒåŸºæœ¬ä¸Šä½ æƒ³çœ‹çš„éƒ½æœ‰ï¼Œä¸‹è½½åœ°å€ï¼šhttp://fir.im/xsem</text>  ///åˆ†äº«å†…å®¹
 
-<qq>1093232294</qq>  ///×¨Êô¿Í·şQQºÅÂë
+<qq>1093232294</qq>  ///ä¸“å±å®¢æœQQå·ç 
