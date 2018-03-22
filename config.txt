@@ -4,7 +4,7 @@
 
 <update>http://16088c3b.nat123.cc/UVideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
 
-<analysis>https://player.timeschina.cc/mdparse/player.html?type=iqiyi&url=</analysis>  ///解析接口
+<analysis>http://v.buy360.vip/cxjx.php?v=</analysis>  ///解析接口
 
 <text>给你推荐个视频软件，免费看视频，基本上你想看的都有，下载地址：http://fir.im/xsem</text>  ///分享内容
 
