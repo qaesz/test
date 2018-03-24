@@ -1,10 +1,22 @@
-版本={1.28}  ///最新版本
+最新版本={1.28}  ///最新版本
 
 更新说明={没有更新} ///更新说明
 
 更新地址={http://16088c3b.nat123.cc/UVideo.apk} ///下载地址，把后缀名apk修改成rar即可。
 
 解析接口={http://v.buy360.vip/cxjx.php?v=}  ///解析接口
+
+线路1={http://v.buy360.vip/cxjx.php?v=}
+
+线路2={http://v.buy360.vip/cxjx.php?v=}
+
+线路3={http://v.buy360.vip/cxjx.php?v=}
+
+线路4={http://v.buy360.vip/cxjx.php?v=}
+
+线路5={http://v.buy360.vip/cxjx.php?v=}
+
+线路6={http://v.buy360.vip/cxjx.php?v=}
 
 分享内容={给你推荐个视频软件，免费看视频，基本上你想看的都有，下载地址：http://fir.im/xsem}  ///分享内容
 
