@@ -1,2 +1,2 @@
 <?PHP
-echo "demo";
+echo "this is a demo";
